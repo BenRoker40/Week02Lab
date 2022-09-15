@@ -8,6 +8,9 @@ package week02lab.randomproject;
 /**
  *
  * @author roker
+ * @author Ben Roker
+ * @version September 15, 2022
+ * This project displays the message "Hello World!" upon run time!
  */
 public class Week02LabRandomProject {
 
